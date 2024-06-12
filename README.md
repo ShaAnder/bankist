@@ -2,7 +2,7 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="120%">
     
-<h1  align="center">React Quiz</h1>
+<h1  align="center">Bankist</h1>
 
 <p  align="center">
 <img src="https://github.com/ShaAnder/bankist/assets/129494996/e03fa161-cb7b-4799-b6f2-787c1e3fcdb7" alt="project image">
